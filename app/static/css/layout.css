@@ -1,0 +1,33 @@
+html {
+  background-color: #474747;
+  color: rgb(169, 110, 169);
+}
+
+.navbar {
+  background-color: #c8c8c8;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-left {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+}
+
+.content {
+  padding-top: 60px; /* Adjust the value as needed */
+}
+
+.navbar-item {
+  margin-right: 10px;
+}
