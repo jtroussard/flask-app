@@ -1,2 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Instance directory
+instance/
+
+# Environment variables
 .env
-venv
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency directories
+venv/
+env/
+lib/
+build/
+dist/
+
+# Package files
+*.egg-info/
+*.egg
+*.tar.gz
+*.whl
+
+# Miscellaneous
+.DS_Store
