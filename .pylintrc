@@ -1,0 +1,5 @@
+[MASTER]
+disable=cyclic-import
+ignore-paths=
+    ./venv/*,
+    ./tests/*
